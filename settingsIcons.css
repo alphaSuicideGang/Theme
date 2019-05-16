@@ -1,0 +1,43 @@
+.sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
+.side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-size: cover!important;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item, .side-8zPYf6 .item-PXvHYJ {padding-left: 40px;}
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,
+div[aria-label="GUILD_SETTINGS"] .side-8zPYf6 .item-PXvHYJ {padding-left: 10px;}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before {background:url(https://i.imgur.com/KoHostA.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before {background:url(https://i.imgur.com/ipDVYHf.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before{background:url(https://i.imgur.com/SV94B4Y.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before{background:url(https://i.imgur.com/194Z18I.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before{background:url(https://i.imgur.com/ZrKfGe0.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before{background:url(https://i.imgur.com/WkI3LoO.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before{background:url(https://i.imgur.com/Zv6k9JX.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before{background:url(https://i.imgur.com/L4P34SE.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before{background:url(https://i.imgur.com/d43l7C7.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before{background:url(https://i.imgur.com/67Q6G29.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before{background:url(https://i.imgur.com/28ddDox.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before{background:url(https://i.imgur.com/qSQOYWT.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before{background:url(https://i.imgur.com/vdHTVCl.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before{background:url(https://i.imgur.com/uyqHgwb.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before{background:url(https://i.imgur.com/ui7CZXW.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before{background:url(https://i.imgur.com/QumHhqs.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before{background:url(https://i.imgur.com/MewufD9.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before{background:url(https://i.imgur.com/zB7tjXA.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before{background:url(https://i.imgur.com/uHkb3H6.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before{background:url(https://i.imgur.com/ChG1Ok1.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://i.imgur.com/Jv02sXG.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before{background:url(https://i.imgur.com/hHZ9hhA.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before{background:url(https://i.imgur.com/GmMaPPY.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before{background:url(https://i.imgur.com/v167LEP.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::before{background:url(https://i.imgur.com/0mfPmzl.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::before{background:url(https://i.imgur.com/YxnMxIl.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::before{background:url(https://i.imgur.com/Sq5Ze91.png) center}
+.side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::before{background:url(https://i.imgur.com/eSSXYle.png) center}
+#user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(30)::before{background:url(https://i.imgur.com/iHUxUrG.png) center}
